@@ -1,2 +1,2 @@
 # FruitSalad
-Online Implementation of the Card Game Point Salad! 
+Text-Based Implementation of the Card Game Point Salad! 
